@@ -1,3 +1,7 @@
 # Hello-World
 To park code for estimating lumber packages.
-My first exposure to wrighting code was on a mainframe that punched holes in cards inorder to feed the program into the computer.
+
+Greetings!
+
+My first exposure to writing code was on a mainframe that 
+punched holes into cards inorder to feed the program into the computer.
